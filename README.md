@@ -97,12 +97,16 @@ Install this project with:
 
 - gem install rails
 - bundle install
+- npm install
+- npm install -g webpack
+
+
 
 ### Usage
 
 To run the project, execute the following command:
 
-rails server
+./bin/dev
 
 ## 👥 Author <a name="authors"></a>
 
@@ -139,7 +143,6 @@ And think If you enjoy gift me a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
- - Creative Commons license of the design and Gregoire Vella on Behance for her Original design idea.
  - Microverse for providing the opportunity to learn Git and GitHub in a collaborative environment.
  - GitHub Docs for providing a wealth of information on Git and GitHub.
 
