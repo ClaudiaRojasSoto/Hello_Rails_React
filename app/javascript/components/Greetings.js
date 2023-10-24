@@ -1,9 +1,7 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchRandomGreeting  } from '../store/greetings/greetingSlice';
-import '../styles/Greetings.css'
-    
-`';
+import '../styles/Greetings.css';
 
 
 const Greetings = () => {
